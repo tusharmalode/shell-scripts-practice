@@ -1,0 +1,8 @@
+apple
+mango
+cherry
+kiwi
+orange
+guva
+red\nyellow\nwhite\n
+red\n yellow\n white\n
